@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m currently working on my web-app security skills. Let's see what it brings... 😄
+### Have a day 👋
 
 <!--
 **kutafia/kutafia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
